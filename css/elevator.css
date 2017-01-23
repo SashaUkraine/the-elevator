@@ -61,3 +61,6 @@ button[disabled] {
 
 td.red { color: red; }
 td.green { color: green; }
+.active-panel-btn{
+  background-color: green;
+}
